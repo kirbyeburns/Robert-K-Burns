@@ -29,7 +29,7 @@ The following projects on my GitHub page were created as part of the coursework 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src/photo)
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
