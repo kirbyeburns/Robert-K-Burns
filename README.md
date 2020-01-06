@@ -27,7 +27,7 @@
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Steven Miller</span>
+      <span class="d-block d-lg-none">Robert K Burns</span>
       <span class="d-none d-lg-block">
         <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt="">
       </span>
@@ -57,8 +57,8 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
-        <h1 class="mb-0">Steven
-          <span class="text-primary">Miller</span>
+        <h1 class="mb-0">Robert
+          <span class="text-primary">Burns</span>
         </h1>
         <div class="subheading mb-5">Orlando, FL
         </div>
