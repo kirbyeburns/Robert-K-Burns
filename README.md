@@ -1,16 +1,15 @@
-Welcome to GitHub Pages
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+I am an Air Force veteran, full-time student and part-time Security Host at Walt Disney World.
+Currently, I am in the home-stretch to complete my Master's Degree in Data Science and pursuing new employment opportunities.
 
-Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Syntax highlighted code block
 
-# head 1
-## Header 2
-### Header 3
+
+
+# Experience
+# Education
+# Projects
 
 - Bulleted
 - List
